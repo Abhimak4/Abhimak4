@@ -1,13 +1,12 @@
 <h1 align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=%23DFC6B4&center=true&vCenter=true&lines=Hi%2C+It's+Abhi+Makana+👋!;Data+analyst;Tech+enthusiast;and+an+Open-Source+Supporter)](https://git.io/typing-svg)
-</h1>
 
-# 💫 About Me:
+Hi, I'm Abhi Makwana💫</h1>
 
 <div align="left">
   
-### Full Stack Developer & Data Analyst | M.Sc. CS & IT
+### Full Stack Developer & Data Analyst Enthusiast | M.Sc. CS & IT
 
 🔭 I’m currently working on<br>Building secure AWS cloud projects (S3 static hosting, VPC architecture, IAM best practices) and upgrading my portfolio with interactive UI/UX.<br><br>👯 I’m looking to collaborate on<br>Cloud security projects, AWS architecture labs, and open-source DevOps or security automation tools.<br><br>🤝 I’m looking for help with<br>Advanced AWS security concepts (IAM policy design, KMS, GuardDuty, WAF) and real-world cloud security case studies.<br><br>🌱 I’m currently learning<br>AWS Cloud Practitioner → Solutions Architect → Cloud Security specialization, along with infrastructure hardening and threat modeling.<br><br>💬 Ask me about<br>AWS basics, building static websites on AWS, VPC design, portfolio UI effects, or staying consistent in tech learning.<br><br>⚡ Fun fact<br>I run a motivation-focused Instagram meme page and believe discipline > mood.
 
