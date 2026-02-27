@@ -25,7 +25,7 @@ Hi, I'm Abhi Makwana💫</h1>
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="https://www.instagram.com/in/abhi.makwana4">
+<a href="https://www.instagram.com/in/abhii.makwana4">
 <img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
 </a>
 
