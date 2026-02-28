@@ -35,7 +35,7 @@
 </p>
 </div>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <div align="center">
   
@@ -53,7 +53,7 @@
 
 </div>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <div align="center">
   
@@ -64,7 +64,7 @@
 </div>
 
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 
 <div align="center">
 
